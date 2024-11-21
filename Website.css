@@ -3,18 +3,14 @@ body {
   }
   
   h1 {
-    display: flex;
     color: black;
-    margin-left: 20px;
     font-family: Roboto, Arial, serif;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
   }
 
   .center-left {
     font-size: 18px;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     font-family: Roboto, Arial, serif;
   }
 
@@ -26,7 +22,7 @@ body {
 
   a {
     text-decoration: none;
-    color: blue; 
+    color: lightgreen; 
   }
   
   a:hover {
